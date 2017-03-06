@@ -10,3 +10,5 @@ github_username:  terraphilosofica
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-hacker
