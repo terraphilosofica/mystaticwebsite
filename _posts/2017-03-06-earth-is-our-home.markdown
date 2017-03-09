@@ -6,4 +6,4 @@ categories: image
 image: IMG_19700101_041854.jpg
 ---
 
-image: IMG_19700101_041854.jpg
+Earth is our home. We are all born under the sun and sky. 
