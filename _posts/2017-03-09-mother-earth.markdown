@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mother Earth"
-date:   2017-09-03 13:46:40
+date:   2017-03-09 13:46:40
 categories: mother earth, emma goldman, nature, planet, 
 ---
 
