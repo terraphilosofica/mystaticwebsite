@@ -10,8 +10,9 @@ image: mother-earth.jpg
 *Mother Earth* or *Tierra Madre* is idea that earth is our common mother, and that we should respect it, all live creatures on it are equal, and human is not exeption. I want to underline femine nature of our earth, planet, because she gives us a birth, and life. Earth is a women, and she is a mother! 
 It is not accidental that magazine that was edited by Emma Goldman and Alexander Berkman was named "Mother Earth".
 
- <a href="https://github.com/terraphilosofica/terraphilosofica.github.io/blob/master/mother-earth.jpg">
- <img src="mother-earth.jpg" style="max-width: 200px;"
+[Picture](https://terraphilosofica.github.io/mother-earth.jpg)
+
+
 
 
 
