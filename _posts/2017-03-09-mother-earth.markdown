@@ -11,6 +11,7 @@ image: mother-earth.jpg
 It is not accidental that magazine that was edited by Emma Goldman and Alexander Berkman was named "Mother Earth".
 
 [Picture](https://terraphilosofica.github.io/mother-earth.jpg)
+<img src="https://terraphilosofica.github.io/mother-earth.jpg" class="img-responsive" alt="Responsive image">
 
 
 
