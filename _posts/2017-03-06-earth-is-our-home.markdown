@@ -16,7 +16,7 @@ Earth is our home. We are all born under the sun and sky.
 
 var disqus_config = function () {
 this.page.url = https://terraphilosofica.github.io/image/2017/03/09/earth-is-our-home.html
-this.page.identifier = terraphilosofica.github.io; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.identifier =/2017-03-06-earth-is-our-home; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */
 (function() { 
